@@ -1,0 +1,21 @@
+{
+  "name": "aula1902",
+  "version": "1.0.0",
+  "description": "introdução ao node javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Pw2_NodeIntro"
+  },
+  "keywords": [
+    "aula1902"
+  ],
+  "author": "sandro e danilo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
