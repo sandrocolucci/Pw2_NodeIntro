@@ -27,4 +27,12 @@ module.exports = class IdeiaController{
         res.render('ideias/dashboard')
 
     }
+
+    static createIdeia(req, res){
+        res.render('ideias/create')
+    }
+
+    static createIdeiaSave(req, res){
+        
+    }
 }
